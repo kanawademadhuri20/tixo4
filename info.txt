@@ -1,0 +1,4 @@
+//working ===== staging ======== local repo =========> remote repo
+git init
+git status
+git add .
